@@ -9,6 +9,8 @@
 
 This project is a eCommerce website designed for selling bakery products online. It provides users with a seamless shopping experience where they can browse through various bakery items, add them to their cart, and make purchases. The website is built using HTML, CSS, and JavaScript for the front-end, while the back-end is powered by Java Spring Boot with an H2 database. The application is hosted on a Tomcat server.
 
+**Note:** This project is still in progress. I am actively learning new concepts and implementing features accordingly.
+
 ## Features
 
 - **Product Listing**: View a wide range of bakery products with detailed descriptions, prices, and images.
