@@ -74,13 +74,13 @@ This project is a eCommerce website designed for selling bakery products online.
 ## Screenshots
 
 **About Page**
-[Screenshot 2024-05-23 134115](https://github.com/divya-gadekar28/Ecommerce-Website/assets/116143709/f020238a-e956-477c-8af3-d6904b79a13e)
+![Screenshot 2024-05-23 134115](https://github.com/divya-gadekar28/Ecommerce-Website/assets/116143709/f020238a-e956-477c-8af3-d6904b79a13e)
 **Product Page**
-(![Screenshot 2024-05-23 133529](https://github.com/divya-gadekar28/Ecommerce-Website/assets/116143709/e9d4d5a3-fa04-4e1b-9f36-1b9af719b318)
+![Screenshot 2024-05-23 133529](https://github.com/divya-gadekar28/Ecommerce-Website/assets/116143709/e9d4d5a3-fa04-4e1b-9f36-1b9af719b318)
 **Cart Page**
-[Screenshot 2024-05-23 133655](https://github.com/divya-gadekar28/Ecommerce-Website/assets/116143709/a7a72337-2792-490c-a3e0-85b4cf8a838b)
+![Screenshot 2024-05-23 133655](https://github.com/divya-gadekar28/Ecommerce-Website/assets/116143709/a7a72337-2792-490c-a3e0-85b4cf8a838b)
 **Admin Panel Pages**
-[Screenshot 2024-05-23 133851](https://github.com/divya-gadekar28/Ecommerce-Website/assets/116143709/b65476a8-3284-457c-9ca8-213f66e4ff5e)
+![Screenshot 2024-05-23 133851](https://github.com/divya-gadekar28/Ecommerce-Website/assets/116143709/b65476a8-3284-457c-9ca8-213f66e4ff5e)
 ![Screenshot 2024-05-23 133755](https://github.com/divya-gadekar28/Ecommerce-Website/assets/116143709/fa20feca-ede0-40bf-8654-afafb5b84f59)
 ![Screenshot 2024-05-23 133818](https://github.com/divya-gadekar28/Ecommerce-Website/assets/116143709/af574b33-579d-4628-8e83-540602089539)
 
